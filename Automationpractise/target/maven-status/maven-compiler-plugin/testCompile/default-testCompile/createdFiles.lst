@@ -1,0 +1,3 @@
+com\Automation\hooks\Hook.class
+com\Automation\Stepdefinition\Automation.class
+com\Automation\Testrunner\Testrunner.class

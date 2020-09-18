@@ -1,0 +1,6 @@
+com\Automation\utils\Singleton.class
+com\Automation\POM\Signinpage.class
+com\Automation\POM\Myaccountpage.class
+direction.class
+com\Automation\utils\Loadproperty.class
+com\Baseclass\automation\Baseautomation.class
